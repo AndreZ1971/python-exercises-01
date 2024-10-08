@@ -2,7 +2,7 @@
 first_name = "Andre"  # Vornamen
 last_name = "Zabel"   # Nachnamen
 birth_year = 1971     # Geburtsjahr
-has_license = Fals    # Führerscheinstatus
+has_license = False    # Führerscheinstatus
 
 # Ausgabe der Variablen
 print("Vorname:", first_name)
